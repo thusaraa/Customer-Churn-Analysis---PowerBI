@@ -40,3 +40,8 @@ This dashboard provides insights into customer churn behavior, including metrics
 2️⃣ Best practices for data visualization and user experience design.
 
 3️⃣ Advanced DAX functions and performance optimization techniques.  
+
+## Dashboard
+
+![Screenshot 2025-01-18 203251](https://github.com/user-attachments/assets/15dd0a35-ae58-47ef-b31d-d52a03a55c39)
+
