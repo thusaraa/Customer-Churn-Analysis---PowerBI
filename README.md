@@ -1,7 +1,7 @@
 # Customer Churn Analysis -PowerBI
 This dashboard provides insights into customer churn behaviour, including metrics such as total customers, active customers, and inactive customers.
 
-📋 Project Overview
+## 📋 Project Overview
 
 This dashboard provides insights into customer churn behavior, including metrics such as: Total customers, active customers, and inactive customers. Exit and retention trends over time. Churn rates by categories such as geography and credit type.Visualized using bar charts, line graphs, and pie charts for clear analysis.
 
@@ -19,7 +19,7 @@ This dashboard provides insights into customer churn behavior, including metrics
 
 6️⃣ Publishing & Sharing: Learned to publish a dashboard to Power BI Service, set up a workspace, and enable scheduled data refreshes.
 
-🌟 Key Features Used
+## 🌟 Key Features Used
 
 ✅ Interactivity: Added slicers for filters and detailed drill-down options.
 
@@ -33,7 +33,7 @@ This dashboard provides insights into customer churn behavior, including metrics
 
 ✅ Security: Incorporated Row-Level Security (RLS) to restrict data access.
 
-🚀 Learnings and SkillsThis project helped me deepen my understanding of:
+## 🚀 Learnings and SkillsThis project helped me deepen my understanding of:
 
 1️⃣ Power BI end-to-end development.
 
@@ -41,7 +41,7 @@ This dashboard provides insights into customer churn behavior, including metrics
 
 3️⃣ Advanced DAX functions and performance optimization techniques.  
 
-## Dashboard
+## 🖼️ Dashboard
 
 ![Screenshot 2025-01-18 203251](https://github.com/user-attachments/assets/15dd0a35-ae58-47ef-b31d-d52a03a55c39)
 
